@@ -1,0 +1,8 @@
+tests\functional\JoomlaTestCept.php
+tests\functional\Copy.feature:BBBBBBBBBBBBBBVerify Get Sweep Path end point
+tests\functional\GetSweepsPathEndpoint.feature:Verify Get Sweep Path end point
+tests\functional\GetSweepsPathEndpoint.feature:Un-publish all the Active Desktop Pchcom game Article
+tests\functional\GetSweepsPathEndpoint.feature:Setup the article to get expired
+tests\functional\GetSweepsPathEndpoint.feature:Remove the Display title and Finish Publishing date
+tests\functional\GetSweepsPathEndpoint.feature:Invalid Device/Appcode
+tests\functional\GetSweepsPathEndpoint.feature:Verify with wrong API

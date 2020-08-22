@@ -1,0 +1,10 @@
+{
+	"environment":"qa",
+	"domain":"pathgames-int",
+	"rfFull_url": "http://centralservices.qa.pch.com/RFApi_V8/Svc/membermanagement.svc/json/api/registration/registermember",
+	"userApi_url": "https://userapi.qa.pch.com/api/user/",
+  	"authBypassToken":"5d14454300cad0083743747691f56b40",
+  	"JoomlaUrl":"http://pathgamesadmin-int.qa.pch.com/administrator/index.php",
+	"joomlaUsername":"ggarg",
+  	"joomlaPassword":"testing"	
+}

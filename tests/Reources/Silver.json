@@ -1,0 +1,85 @@
+{
+	"Application": {
+		"AppCode": "PCHCOM",
+		"PlatformCode": "PAYONL"
+	},
+	"Source": {
+		"TrackingToken": "",
+		"SourceCode": "PAYONL",
+		"ForeignSource": "",
+		"OriginatingUrl": "http://centralservices.qa.pch.com/RFApi_v9/Svc/testpage.aspx",
+		"MediaChannel": "ACQ",
+		"EmailSubCode": "",
+		"EmailVendorId": "M0EX6G-QNRMU8-HVSFC4-9ZWUQDR-30JROM-v1"
+	},
+	"IpAddress": {
+		"ServerIp": "10.1.1.246",
+		"ClientIp": "24.193.86.57"
+	},
+	"Client": {
+		"UserAgentId": "975138",
+		"DeviceType": "DESKTOP",
+		"ExperienceDeviceType": "EXPDESKTOP"
+	},
+	"SkipEmailValidation": {
+		"Email": "",
+		"ErrorCode": null
+	},
+	"Fields": [
+		{
+			"FieldCode": "11",
+			"FieldValue": "Mr."
+		},
+		{
+			"FieldCode": "12",
+			"FieldValue": "FirstName"
+		},
+		{
+			"FieldCode": "13",
+			"FieldValue": "LastName"
+		},
+		{
+			"FieldCode": "14",
+			"FieldValue": "382 Channel Drive"
+		},
+		{
+			"FieldCode": "15",
+			"FieldValue": ""
+		},
+		{
+			"FieldCode": "16",
+			"FieldValue": "Port Washington"
+		},
+		{
+			"FieldCode": "17",
+			"FieldValue": "NY"
+		},
+		{
+			"FieldCode": "18",
+			"FieldValue": "11050"
+		},
+		{
+			"FieldCode": "19",
+			"FieldValue": "USA"
+		},
+		{
+			"FieldCode": "20",
+			"FieldValue": "EmailId"
+		},
+		{
+			"FieldCode": "21",
+			"FieldValue": "EmailId"
+		}
+	],
+	"SubscriptionData": {
+		"SubscriptionCodes": [
+			"PCHCOM",
+			"BLINGO"
+		]
+	},
+	"RegistrationValidationOption": {
+		"AddressValidation": true,
+		"DeliveryPointValidation": true,
+		"EmailValidation": true
+	}
+}

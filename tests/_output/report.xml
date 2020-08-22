@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="functional" tests="1" assertions="0" errors="0" failures="0" skipped="0" time="0.001350">
+    <testcase name="JoomlaTest" file="C:\composer\vendor\bin/tests\functional\JoomlaTestCept.php" feature="" assertions="0" time="0.001350"/>
+  </testsuite>
+</testsuites>

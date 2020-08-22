@@ -1,0 +1,24 @@
+# Codeception Test Suite Configuration
+#
+# Suite for functional tests
+# Emulate web requests and make application process them
+# Include one of framework modules (Symfony2, Yii2, Laravel5) to use it
+# Remove this suite if you don't use frameworks
+
+actor: FunctionalTester
+gherkin:
+    contexts:
+        default: 
+            - FunctionalTester
+            - GmailTester
+modules:
+    enabled:
+         - WebDriver:
+            url: 'http://pathgamesadmin-int.qa.pch.com/administrator/index.php'
+            browser: chrome
+         - Filesystem
+         - REST:
+            url: 'http://pathgames-int.qa.pch.com/api/sweeps'
+            depends: PhpBrowser
+         - Filesystem
+         - \Helper\ActionWrapper
